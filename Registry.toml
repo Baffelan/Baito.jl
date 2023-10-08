@@ -4,3 +4,4 @@ repo = "https://github.com/Baffelan/Baito.jl"
 description = "Baffelan's shed for Julia's packages"
 
 [packages]
+2cbcc540-60d5-4e59-8d77-8826b4db9639 = { name = "Stranbo", path = "S/Stranbo" }
