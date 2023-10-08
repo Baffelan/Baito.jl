@@ -1,0 +1,6 @@
+name = "Baito"
+uuid = "64fab020-fbef-4762-8ecb-2dc867f5f1fd"
+repo = "https://github.com/Baffelan/Baito.jl"
+description = "Baffelan's shed for Julia's packages"
+
+[packages]
