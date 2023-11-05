@@ -5,6 +5,7 @@ description = "Baffelan's shed for Julia's packages"
 
 [packages]
 2cbcc540-60d5-4e59-8d77-8826b4db9639 = { name = "Stranbo", path = "S/Stranbo" }
+2f70e6e1-4b7e-452a-8221-497046ae2690 = { name = "IOM_newsAPI_query", path = "I/IOM_newsAPI_query" }
 59f707cc-cce7-40fd-9617-9e0c6ce07bf2 = { name = "IOM_WritePostgres", path = "I/IOM_WritePostgres" }
 b8c3da20-68e7-4c44-b027-8b22a1b9608c = { name = "IOM_MakeWebJSON", path = "I/IOM_MakeWebJSON" }
 bdf42eb1-85ec-4052-9919-edfefbcacadc = { name = "IOM_Collector", path = "I/IOM_Collector" }
