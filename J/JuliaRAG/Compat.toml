@@ -1,0 +1,6 @@
+[1]
+CondaPkg = "0.2"
+Distances = "0.10"
+NearestNeighbors = "0.4"
+PythonCall = "0.9"
+julia = "1"
